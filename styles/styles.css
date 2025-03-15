@@ -1,14 +1,14 @@
 nav {
-    background-color: darkblue;
+    background-color: burlywood;
     padding: 10px;
 }
 nav a{
-    color: white;
+    color: rgb(15, 1, 1);
     display: block;
     padding: 20px;
 }
 h1 {
-    color: darkblue;
+    color: black;
 }
 
 img {
@@ -16,7 +16,7 @@ img {
     height: auto;
     border: 1px solid black;
     padding: 2px;
-    background-image: 0 0 30px gray;
+    background-image: url('images/profile');
 }
 
 p {
@@ -30,10 +30,10 @@ main {
 aside {
     width: 20rem;
     margin: 1rem;
-    border: 1px solid rgb (0 0 0 / 0.2);
-    padding: 1rem;
-    background-color: #eee;
-    color: #333;
+    border: 1px solid;
+    padding: 1em;
+    background-color: burlywood;
+    color: black;
     text-align: center;
 }
 
