@@ -205,3 +205,14 @@ footer img {
 .contact-form button:hover {
     background-color: var(--dark-color);
 }
+.footer-menu {
+    color: var(--light-color);
+    text-decoration: underline;
+    margin-top: 0.5em;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.footer-menu:hover {
+    color: var(--accent-color);
+}
